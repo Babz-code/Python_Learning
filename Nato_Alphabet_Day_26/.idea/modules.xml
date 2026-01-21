@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Nato_Alphabet_Day_26.iml" filepath="$PROJECT_DIR$/.idea/Nato_Alphabet_Day_26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day_26_Nato_Alphabet/.idea/Day_26_Nato_Alphabet.iml" filepath="$PROJECT_DIR$/../Day_26_Nato_Alphabet/.idea/Day_26_Nato_Alphabet.iml" />
     </modules>
   </component>
 </project>

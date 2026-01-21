@@ -5,23 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d25885e9-632d-47ca-b93d-ef24cbc10963" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Day_33_ISS_Locator/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day_34_Trivia_QuizApp/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day_34_Trivia_QuizApp/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day_34_Trivia_QuizApp/question_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day_34_Trivia_QuizApp/quiz_brain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day_34_Trivia_QuizApp/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_25_panda_intro/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_39_Flight-deals/data_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_39_Flight-deals/flight_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_39_Flight-deals/flight_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_39_Flight-deals/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_39_Flight-deals/notification_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_46_Music_Time_Traveller/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/.idea/panda_intro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/.idea/Day_25_panda_intro.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/Fur Color Count.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/Fur Color Count.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/weather_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/weather_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_28_PomodoroApp/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_28_PomodoroApp/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Day_32/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_32/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day_32_Birthday_wisher_automation/birthdays.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_32_Birthday_wisher_automation/birthdays.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day_32_Birthday_wisher_automation/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_32_Birthday_wisher_automation/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_28_PomodoroApp/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_28_PomodoroApp/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Pomodoro_Day_28.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_28_PomodoroApp/.idea/Day_28_PomodoroApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_28_PomodoroApp/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_28_PomodoroApp/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_28_PomodoroApp/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_28_PomodoroApp/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tomato.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_28_PomodoroApp/tomato.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_33/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_33/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/Mail Merge Project Start_Day_24.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/.idea/Day_24_Mail Merge Project Start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Input/Letters/starting_letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Input/Names/invited_names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Input/Names/invited_names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Aang's Final_letter.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/Aang's Final_letter.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Appa's Final_letter.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/Appa's Final_letter.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Katara's Final_letter.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/Katara's Final_letter.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Momo's Final_letter.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/Momo's Final_letter.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Sokka's Final_letter.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/Sokka's Final_letter.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Toph's Final_letter.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/Toph's Final_letter.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Uncle Iroh's Final_letter.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/Uncle Iroh's Final_letter.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Zuko's Final_letter.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/Zuko's Final_letter.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/example.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nato_Alphabet_Day_26/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_26_Nato_Alphabet/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nato_Alphabet_Day_26/.idea/Nato_Alphabet_Day_26.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_26_Nato_Alphabet/.idea/Day_26_Nato_Alphabet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nato_Alphabet_Day_26/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_26_Nato_Alphabet/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nato_Alphabet_Day_26/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_26_Nato_Alphabet/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nato_Alphabet_Day_26/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_26_Nato_Alphabet/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nato_Alphabet_Day_26/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_26_Nato_Alphabet/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nato_Alphabet_Day_26/nato_phonetic_alphabet.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_26_Nato_Alphabet/nato_phonetic_alphabet.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +95,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+        <option value="bundled-python-sdk-79ce2b023f03-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.130" />
       </set>
     </attachedChunks>
   </component>

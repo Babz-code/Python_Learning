@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cd441ab-9447-4319-ae6a-c340b1c27e64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_25_panda_intro/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_39_Flight-deals/data_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_39_Flight-deals/flight_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_39_Flight-deals/flight_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_39_Flight-deals/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_39_Flight-deals/notification_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_46_Music_Time_Traveller/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/.idea/panda_intro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/.idea/Day_25_panda_intro.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/Fur Color Count.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/Fur Color Count.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_25/weather_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/weather_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_32/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_32/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_33/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_33/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/Mail Merge Project Start_Day_24.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/.idea/Day_24_Mail Merge Project Start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_25_panda_intro/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Input/Letters/starting_letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Input/Names/invited_names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Input/Names/invited_names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Aang's Final_letter.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/Aang's Final_letter.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Appa's Final_letter.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/Appa's Final_letter.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Katara's Final_letter.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/Katara's Final_letter.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Momo's Final_letter.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/Momo's Final_letter.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Sokka's Final_letter.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/Sokka's Final_letter.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Toph's Final_letter.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/Toph's Final_letter.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Uncle Iroh's Final_letter.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/Uncle Iroh's Final_letter.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Zuko's Final_letter.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/Zuko's Final_letter.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/Output/ReadyToSend/example.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_24_Mail Merge Project Start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_26_Nato_Alphabet/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Nato_Alphabet_Day_26.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_26_Nato_Alphabet/.idea/Day_26_Nato_Alphabet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_26_Nato_Alphabet/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_26_Nato_Alphabet/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_26_Nato_Alphabet/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_26_Nato_Alphabet/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nato_phonetic_alphabet.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_26_Nato_Alphabet/nato_phonetic_alphabet.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Babz-code"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Babz-code/Python_Learning.git",
+    "accountId": "65c0d0d5-cac3-49e4-b624-a125a5657b91"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2z0gkxZoUU5Yz8MdD8ta4d6oCFc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/DELL/PycharmProjects/Nato_Alphabet_Day_26"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-79ce2b023f03-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.130" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cd441ab-9447-4319-ae6a-c340b1c27e64" name="Changes" comment="" />
+      <created>1750873551940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750873551940</updated>
+    </task>
+    <servers />
+  </component>
+</project>
